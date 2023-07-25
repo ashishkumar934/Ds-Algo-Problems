@@ -27,3 +27,7 @@ print(pair1.lastName)
 
 max_and_min.print_name()
 print(max_and_min.lastName)
+
+from classes2 import *
+person2=Name()
+print(person2._pv2)

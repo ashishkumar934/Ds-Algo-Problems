@@ -5,6 +5,7 @@ Given an array of size N. The task is to find the maximum and the minimum elemen
 """
 
 class max_and_min:
+  
   lastName='kumar'
   def __init__(self):
     print(self)

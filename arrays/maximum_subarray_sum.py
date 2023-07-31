@@ -1,7 +1,7 @@
 """
 https://www.codingninjas.com/studio/problems/maximum-subarray-sum_630526?onboarding=true&leftPanelTab=0
 """
-
+## Done
 from os import *
 from sys import *
 from collections import *
